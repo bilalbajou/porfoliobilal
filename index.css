@@ -44,4 +44,24 @@ header{
     font-size: 25px;
     color: #c70039 !important;
 }
-
+.info-pers p{
+   text-align:justify ;
+   text-justify: inter-word;
+   font-family: 'Arvo', serif;
+}
+.btn-git{
+    background-color:   #56776c !important  ;
+    border-color:  #56776c !important ;
+}
+.btn-lin{
+    background-color:   #56776c !important  ;
+    border-color:  #56776c !important ;
+}
+.btn-fa{
+    background-color:   #56776c !important  ;
+    border-color:  #56776c !important ;
+}
+.btn-ins{
+    background-color:   #56776c !important  ;
+    border-color:  #56776c !important ;
+}
