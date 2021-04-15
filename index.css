@@ -49,19 +49,7 @@ header{
    text-justify: inter-word;
    font-family: 'Arvo', serif;
 }
-.btn-git{
-    background-color:   #56776c !important  ;
-    border-color:  #56776c !important ;
-}
-.btn-lin{
-    background-color:   #56776c !important  ;
-    border-color:  #56776c !important ;
-}
-.btn-fa{
-    background-color:   #56776c !important  ;
-    border-color:  #56776c !important ;
-}
-.btn-ins{
-    background-color:   #56776c !important  ;
-    border-color:  #56776c !important ;
+.links{
+    margin-left: 20px;
+    font-size: 20px;
 }
